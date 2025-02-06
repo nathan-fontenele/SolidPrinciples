@@ -1,0 +1,14 @@
+C:\Dev\SolidPrinciples\Srp\bin\Debug\net9.0\Srp.exe
+C:\Dev\SolidPrinciples\Srp\bin\Debug\net9.0\Srp.deps.json
+C:\Dev\SolidPrinciples\Srp\bin\Debug\net9.0\Srp.runtimeconfig.json
+C:\Dev\SolidPrinciples\Srp\bin\Debug\net9.0\Srp.dll
+C:\Dev\SolidPrinciples\Srp\bin\Debug\net9.0\Srp.pdb
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.AssemblyInfoInputs.cache
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.AssemblyInfo.cs
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.csproj.CoreCompileInputs.cache
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.dll
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\refint\Srp.dll
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.pdb
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.genruntimeconfig.cache
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\ref\Srp.dll
