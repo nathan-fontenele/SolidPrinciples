@@ -1,0 +1,15 @@
+C:\Dev\SolidPrinciples\Ocp\bin\Debug\net9.0\Ocp.exe
+C:\Dev\SolidPrinciples\Ocp\bin\Debug\net9.0\Ocp.deps.json
+C:\Dev\SolidPrinciples\Ocp\bin\Debug\net9.0\Ocp.runtimeconfig.json
+C:\Dev\SolidPrinciples\Ocp\bin\Debug\net9.0\Ocp.dll
+C:\Dev\SolidPrinciples\Ocp\bin\Debug\net9.0\Ocp.pdb
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\Ocp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\Ocp.AssemblyInfoInputs.cache
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\Ocp.AssemblyInfo.cs
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\Ocp.csproj.CoreCompileInputs.cache
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\Ocp.sourcelink.json
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\Ocp.dll
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\refint\Ocp.dll
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\Ocp.pdb
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\Ocp.genruntimeconfig.cache
+C:\Dev\SolidPrinciples\Ocp\obj\Debug\net9.0\ref\Ocp.dll

@@ -12,3 +12,4 @@ C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\refint\Srp.dll
 C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.pdb
 C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.genruntimeconfig.cache
 C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\ref\Srp.dll
+C:\Dev\SolidPrinciples\Srp\obj\Debug\net9.0\Srp.sourcelink.json
